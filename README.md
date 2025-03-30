@@ -9,7 +9,7 @@ Screenshot
 ![](./images/screenshot2.png)
 
 URL da solução: https://github.com/biarmortari/QR-code-component
-URL do site ao vivo: http://127.0.0.1:5500/index.html
+URL do site ao vivo: https://biarmortari.github.io/QR-code-component/
 
 Meu Processo
 
